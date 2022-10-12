@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 6th semester telematics engineering student  at UPIITA - IPN, Mexico.. I am characterized by my facility for<br>teamwork and my enthusiasm for learning and developing my skills. I am looking for a job<br>opportunity to contribute with my knowledge and skills; also to gain more experience, and<br>continue to grow as a web developer.<br><br>
+I am a 6th semester telematics engineering student  at UPIITA - IPN, Mexico.. I am characterized by my facility for teamwork and my enthusiasm for learning and developing my skills. I am looking for a job<br>opportunity to contribute with my knowledge and skills; also to gain more experience, and<br>continue to grow as a web developer.<br><br>
 
 
 ## 🌐 Socials:
