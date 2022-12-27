@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 6th semester telematics engineering student  at UPIITA - IPN, Mexico.. I am characterized by my facility for teamwork and my enthusiasm for learning and developing my skills. I am looking for a job opportunity to contribute with my knowledge and skills; also to gain more experience, and keep growing as a web developer.<br><br>
+I am a 6th semester telematics engineering student  at UPIITA - IPN, Mexico... My area of ​​interest is Full Stack Web Development, with JavaScript management and frameworks such as React, Nodejs and Express js. I have experience in Frontend and Backend development, as well as in managing databases such as SQL Server, MySQL and MongoDB; in addition to the management of Azure<br><br>
 
 
 ## 🌐 Socials:
