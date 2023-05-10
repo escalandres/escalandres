@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a 6th semester telematics engineering student  at UPIITA - IPN, Mexico... My area of ​​interest is Full Stack Web Development, with JavaScript management and frameworks such as React, Nodejs and Express js. I have experience in Frontend and Backend development, as well as in managing databases such as SQL Server, MySQL and MongoDB; in addition to the management of Azure<br><br>
-
+7th semester telematics engineering student with experience in the development of web applications, both Frontend and Backend. Experience in managing databases, and managing Linux equipment. I am looking for a job opportunity to contribute my knowledge and skills in web development and solving computer problem 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/escalandres) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/escalandres/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-escala-2b98a4222/) 
