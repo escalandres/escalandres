@@ -1,5 +1,5 @@
 # 💫 About Me:
-7th semester telematics engineering student with experience in the development of web applications, both Frontend and Backend. Experience in managing databases, and managing Linux equipment. I am looking for a job opportunity to contribute my knowledge and skills in web development and solving computer problem 
+8th semester telematics engineering student with experience in the development of web applications, both Frontend and Backend. Experience in managing databases, and managing Linux equipment. I am looking for a job opportunity to contribute my knowledge and skills in web development and solving computer problem 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/escalandres) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/escalandres/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-escala-2b98a4222/) 
