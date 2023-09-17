@@ -14,5 +14,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=escalandres&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://app.daily.dev/escalandres"><img src="https://api.daily.dev/devcards/8c27b34182e5423ebd7c84f0741b8db4.png?r=280" width="400" alt="Andres Escala's Dev Card"/></a>
+<a href="https://app.daily.dev/escalandres"><img src="https://api.daily.dev/devcards/8c27b34182e5423ebd7c84f0741b8db4.png?r=ox8" width="400" alt="Andres Escala's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/escalandres"><img src="https://api.daily.dev/devcards/8c27b34182e5423ebd7c84f0741b8db4.png?r=280" width="400" alt="Andres Escala's Dev Card"/></a> -->
 <!-- <a href="https://app.daily.dev/escalandres"><img src="https://api.daily.dev/devcards/8c27b34182e5423ebd7c84f0741b8db4.png?r=4lp" width="400" alt="Andres Escala's Dev Card"/></a> -->
