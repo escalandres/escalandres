@@ -1,6 +1,5 @@
 # 💫 About Me:
-Full Stack developer with +2 years experience in web applications and RESTFULL API development in .NET (+2 year), Node.js and Express.js (+2 years); 1 year experince on
-Frontend Apps dev with React.js. One year experience in managing SQL Server and MongoDB databases. Experience on customization of ERP systems and QA processes (+6 months). I am looking for a job opportunity to contribute my knowledge and skills in web development.
+Full Stack Developer with over 3 years of experience building scalable web applications and RESTful APIs using .NET, Node.js, and Express.js. Two years of experience developing modern, maintainable user interfaces with React.js. Strong proficiency in designing and managing SQL Server and MongoDB databases, including service integration and query optimization. Additional experience customizing ERP systems and contributing to QA processes, enhancing the stability and efficiency of enterprise solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/escalandres) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/escalandres/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/escalandres/) 
